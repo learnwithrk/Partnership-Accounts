@@ -1,0 +1,407 @@
+{
+  "id": "3-death-of-partners-and-sale-of-firm",
+  "title": "3. Death of Partners and Sale of Partnership Firm",
+  "subtitle": "Mode of Payment, Deceased Partner's Share of Profit, Joint Life Policy, Sale of Firm to a Company",
+  "questions": [
+    {
+      "q": "Death of a partner, like retirement, results in:",
+      "options": [
+        "Compulsory conversion into a company",
+        "Automatic winding up of the business",
+        "Reconstitution of the firm",
+        "Permanent suspension of all firm operations"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "The main accounting difference between retirement and death of a partner is that, in case of death:",
+      "options": [
+        "No goodwill adjustment is required",
+        "Accounts are generally prepared up to the date of death, which may fall in the middle of an accounting year",
+        "The firm must be compulsorily dissolved",
+        "No revaluation of assets and liabilities is required"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "The amount due to a deceased partner is payable to their:",
+      "options": [
+        "The government",
+        "Continuing partners equally",
+        "Legal representative or executor",
+        "The firm's bank"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "The mode of payment of the amount due to a deceased partner's executor may be:",
+      "options": [
+        "Only in a single lump sum, by law",
+        "A lump sum or instalments, as agreed or provided in the partnership deed",
+        "Only after one full year from the date of death",
+        "Only through transfer of fixed assets"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "The deceased partner's share of profit up to the date of death is generally ascertained on the basis of:",
+      "options": [
+        "The firm's total capital on that date",
+        "Time basis or turnover/sales basis, as agreed",
+        "The average capital of all partners",
+        "The continuing partners' personal income"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Under the time basis of ascertaining the deceased partner's share of profit, the previous year's profit is:",
+      "options": [
+        "Apportioned in proportion to the period from the last Balance Sheet date to the date of death",
+        "Ignored completely",
+        "Doubled to account for uncertainty",
+        "Distributed equally among all partners, regardless of time"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Under the turnover/sales basis of ascertaining a deceased partner's share of profit, the estimate is based on:",
+      "options": [
+        "The proportion of sales achieved up to the date of death, compared to total sales of the previous year",
+        "The firm's total liabilities",
+        "The firm's total assets",
+        "The number of days the partner worked, regardless of sales"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "A Joint Life Policy (JLP) is taken out by a partnership firm primarily to:",
+      "options": [
+        "Provide funds to pay the deceased partner's dues without straining the firm's working capital",
+        "Reduce the firm's income tax liability permanently",
+        "Increase the market value of the firm's goodwill",
+        "Avoid the need to calculate a new profit-sharing ratio"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "The premium paid on a Joint Life Policy may be treated in the firm's books either as:",
+      "options": [
+        "Always as drawings",
+        "An expense (charged to Profit and Loss Account) or as an asset (shown in the Balance Sheet)",
+        "Always as goodwill",
+        "Always as a loan to partners"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "When the JLP premium is treated as an expense (revenue method), the policy amount received on a partner's death is credited to:",
+      "options": [
+        "All partners' Capital Accounts, in their profit-sharing ratio",
+        "The firm's Reserve Fund exclusively",
+        "The Revaluation Account",
+        "Only the deceased partner's Capital Account"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "When a Joint Life Policy Account is maintained (premium treated as an asset), the surrender value is normally shown in the firm's:",
+      "options": [
+        "Profit and Loss Account every year",
+        "Realisation Account only",
+        "Capital Accounts of partners directly",
+        "Balance Sheet, as an asset, until maturity or claim"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "On the death of a partner, if the Joint Life Policy matures, the excess of the amount received over its book/surrender value is treated as:",
+      "options": [
+        "Ignored in the accounts",
+        "A liability to the deceased partner's executor only",
+        "Profit, distributed among all partners in their profit-sharing ratio",
+        "A loss to be borne by continuing partners alone"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "The sale of a partnership firm to a company typically involves:",
+      "options": [
+        "Compulsory insolvency proceedings against all partners",
+        "Permanent closure of the business with no consideration received",
+        "Liquidation of all assets for cash only, with no transfer to any entity",
+        "Transfer of the firm's assets and liabilities to the company in exchange for purchase consideration"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Purchase consideration, when a partnership firm is sold to a company, generally refers to:",
+      "options": [
+        "The price agreed to be paid by the company for taking over the business of the firm",
+        "The firm's total profit for the current year",
+        "The firm's total liabilities only",
+        "The capital originally contributed by the partners"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "One common method of computing purchase consideration is the:",
+      "options": [
+        "Garner vs Murray Method",
+        "Net Payment Method or Net Asset Method",
+        "Maximum Loss Method",
+        "Time Ratio Method"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Under the Net Asset Method of computing purchase consideration, it is calculated as:",
+      "options": [
+        "The firm's average profit multiplied by years of purchase",
+        "Total liabilities minus total assets",
+        "Total of all assets, regardless of whether taken over",
+        "Agreed value of assets taken over, minus liabilities taken over"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "On sale of the firm to a company, a Realisation Account is prepared to record:",
+      "options": [
+        "Only the purchase consideration received in cash",
+        "The transfer and disposal of the firm's assets and liabilities, and to ascertain profit or loss on sale",
+        "Only the partners' drawings",
+        "Only the goodwill of the firm"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "When a partnership firm is sold to a company, purchase consideration may be received by the partners in the form of:",
+      "options": [
+        "Only cash, by law",
+        "Only as a loan from the company",
+        "Cash, shares, debentures, or a combination of these, as agreed",
+        "Only land"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Profit or loss on realisation, when a firm is sold to a company, is distributed among partners in their:",
+      "options": [
+        "Capital ratio, irrespective of profit-sharing ratio",
+        "Sacrificing ratio",
+        "Profit-sharing ratio",
+        "Gaining ratio"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "The main purpose of a Joint Life Policy, from the firm's perspective, is risk management against:",
+      "options": [
+        "Foreign exchange risk",
+        "Fluctuations in the market price of goods",
+        "The financial strain of paying a deceased partner's dues suddenly",
+        "Risk of insolvency of debtors"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "If a Joint Life Policy is taken on the joint lives of all partners, the claim normally becomes receivable:",
+      "options": [
+        "Only on the firm's dissolution",
+        "On the death of any one partner (first death)",
+        "Only after 20 years, regardless of any death",
+        "Only when all partners have died"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "The amount due to a deceased partner, to the extent unpaid, is generally transferred to a:",
+      "options": [
+        "Capital Reserve Account",
+        "Goodwill Account",
+        "Deceased Partner's Executor's Loan Account",
+        "Realisation Account"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "On death of a partner, the gaining ratio of the continuing partners is used, similar to retirement, to:",
+      "options": [
+        "Value the firm's fixed assets",
+        "Determine how much each continuing partner compensates for the deceased partner's share of goodwill",
+        "Determine the deceased partner's final drawings",
+        "Compute the firm's total sales"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "In the absence of any agreement, interest payable to a deceased partner's executor on an unpaid balance (Section 37, Partnership Act) follows the same provision applicable to:",
+      "options": [
+        "A newly admitted partner",
+        "A dissolved firm's creditors only",
+        "A retiring partner",
+        "An insolvent partner"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "A life policy taken out jointly on the lives of all partners, rather than separate policies for each, is known as a:",
+      "options": [
+        "Fire Insurance Policy",
+        "Fidelity Policy",
+        "Joint Life Policy",
+        "Marine Insurance Policy"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "On the death of a partner, profit or loss on revaluation of assets and liabilities is shared by:",
+      "options": [
+        "Only the continuing partners",
+        "Only the deceased partner's executor",
+        "All partners, including the deceased partner up to the date of death, in the old profit-sharing ratio",
+        "Equally among continuing partners, regardless of ratio"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "When a firm sells its business to a limited company, the firm itself is referred to as the:",
+      "options": [
+        "Transferee company",
+        "Vendor",
+        "Promoter",
+        "Vendee"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "The company that takes over the business of the firm is referred to as the:",
+      "options": [
+        "Executor",
+        "Vendor firm",
+        "Purchasing company (vendee company)",
+        "Realisation firm"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "If the purchase consideration exceeds the net assets taken over by the company, the excess is treated, in the firm's books, as:",
+      "options": [
+        "Loss on realisation",
+        "Profit on realisation",
+        "A liability to the company",
+        "Goodwill written off"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "If the purchase consideration is less than the net assets taken over, the shortfall represents, in the firm's books:",
+      "options": [
+        "An asset revaluation gain",
+        "A loss on realisation",
+        "Goodwill created",
+        "A profit on realisation"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "The deceased partner's Capital Account balance, after all adjustments, represents the amount payable to:",
+      "options": [
+        "The government",
+        "The firm's bank",
+        "The continuing partners",
+        "The executor or legal heirs of the deceased partner"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "On the death of a partner during the accounting year, reserves and accumulated profits in the Balance Sheet are distributed among:",
+      "options": [
+        "Only the continuing partners",
+        "Equally, regardless of the old ratio",
+        "Only the deceased partner's account",
+        "All partners, including the deceased partner, in the old profit-sharing ratio"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "A Joint Life Policy Reserve Account, where maintained, is used to:",
+      "options": [
+        "Pay partners' personal tax liabilities",
+        "Accumulate funds against fluctuations in the surrender value of the policy",
+        "Record partners' drawings",
+        "Replace the Capital Accounts of partners"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Where no Joint Life Policy exists, the cash required to pay a deceased partner's executor is usually arranged by:",
+      "options": [
+        "The continuing partners, from the firm's funds or by introducing additional capital/loans",
+        "Automatic government compensation",
+        "Compulsory dissolution and sale of all assets",
+        "Writing off the amount as a bad debt"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Regarding the deceased partner's executor becoming a partner in the firm:",
+      "options": [
+        "The executor inherits full managerial control of the firm",
+        "The executor does not become a partner merely by receiving the deceased partner's dues",
+        "The executor must be a chartered accountant",
+        "The executor automatically becomes a full partner"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "The legal basis for interest payable to a deceased partner's representative on an unsettled balance, similar to a retiring partner, is found in:",
+      "options": [
+        "The Sale of Goods Act, 1930",
+        "The Income Tax Act, 1961",
+        "The Companies Act, 2013",
+        "The Indian Partnership Act, 1932"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Under the Net Payment Method of computing purchase consideration, it is the sum of:",
+      "options": [
+        "The firm's total liabilities taken over",
+        "All forms of payment (cash, shares, debentures, etc.) actually paid or payable by the purchasing company",
+        "Only the value of shares issued",
+        "Only the cash component"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "In the Realisation Account prepared on sale of the firm, assets transferred to the account are recorded at their:",
+      "options": [
+        "Book values, before any revaluation for the sale",
+        "Purchase consideration value directly",
+        "Nil, since they are being disposed of",
+        "Market values only"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "The balance of the Realisation Account (profit or loss), on sale of the firm to a company, is ultimately transferred to the:",
+      "options": [
+        "Partners' Capital Accounts, in their profit-sharing ratio",
+        "Company's Profit and Loss Account",
+        "Joint Life Policy Account",
+        "Government revenue account"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Death of a partner is similar to retirement in that both situations require:",
+      "options": [
+        "Compulsory dissolution of the firm",
+        "Settlement of the outgoing partner's share of profits, goodwill and revaluation gains/losses",
+        "Conversion of the firm into a company",
+        "Admission of a replacement partner within 30 days"
+      ],
+      "answer": 1
+    }
+  ]
+}

@@ -1,0 +1,407 @@
+{
+  "id": "4-dissolution-of-partnership-firm",
+  "title": "4. Dissolution",
+  "subtitle": "Dissolution of Partnership vs Dissolution of Firm, Modes of Dissolution, Settlement of Accounts, Accounting Entries",
+  "questions": [
+    {
+      "q": "\"Dissolution of partnership\" refers to a situation where:",
+      "options": [
+        "The firm is converted into a private limited company",
+        "The firm's business comes to a complete end",
+        "All partners are declared insolvent",
+        "The mutual relationship between some partners changes but the firm continues"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "\"Dissolution of a firm\" refers to a situation where:",
+      "options": [
+        "A new partner is admitted",
+        "The partnership deed is merely amended",
+        "The relationship between all partners comes to an end and the firm's business ceases",
+        "Only one partner retires while the business continues"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Which of the following is an example of dissolution of partnership, without necessarily dissolving the firm?",
+      "options": [
+        "Completion of the specific venture for which the firm was formed, with no renewal",
+        "Admission, retirement, or death of a partner, where the business continues",
+        "Expiry of the fixed term for which the firm was constituted, with no renewal",
+        "Insolvency of all partners"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Dissolution of a firm by agreement means:",
+      "options": [
+        "The firm automatically dissolves after five years",
+        "One partner alone decides to dissolve the firm without consent",
+        "A court orders dissolution",
+        "All partners mutually agree to dissolve the firm"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Compulsory dissolution of a firm occurs, among other situations, when:",
+      "options": [
+        "One partner wishes to retire",
+        "A new partner is admitted",
+        "All partners, or all but one partner, become insolvent",
+        "The firm earns a loss in a particular year"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "A partnership at will may be dissolved by:",
+      "options": [
+        "Only by a court order",
+        "Only after the firm completes ten years of operation",
+        "Any partner giving notice in writing to all other partners of their intention to dissolve the firm",
+        "Only with government permission"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Dissolution of a firm by the Court may be ordered, under the Indian Partnership Act, on grounds such as:",
+      "options": [
+        "A partner asking for a salary increase",
+        "Minor disagreements over day-to-day expenses",
+        "A partner taking a short leave of absence",
+        "A partner's unsound mind, permanent incapacity, or misconduct affecting the business"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Which of the following would make a partnership's business unlawful, leading to compulsory dissolution?",
+      "options": [
+        "A decline in the firm's annual profit",
+        "A partner's marriage",
+        "A subsequent change in law making the firm's business illegal",
+        "A partner's temporary illness"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "On dissolution of a firm, a Realisation Account is prepared mainly to:",
+      "options": [
+        "Record only partners' drawings",
+        "Record only the firm's sales for the year",
+        "Record the sale/realisation of assets and payment of liabilities, and ascertain profit or loss on dissolution",
+        "Record the admission of a new partner"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "On dissolution, assets other than cash/bank are transferred to the Realisation Account by:",
+      "options": [
+        "Crediting the Partners' Capital Accounts",
+        "Crediting the Realisation Account and debiting the respective asset accounts",
+        "Debiting the Partners' Capital Accounts",
+        "Debiting the Realisation Account and crediting the respective asset accounts"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "On dissolution, outside liabilities are transferred to the Realisation Account by:",
+      "options": [
+        "Debiting the Realisation Account and crediting the respective liability accounts",
+        "Crediting the Realisation Account and debiting the respective liability accounts",
+        "Crediting the Partners' Capital Accounts",
+        "Debiting the Partners' Capital Accounts"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "When an asset is taken over by a partner on dissolution, the accounting entry is:",
+      "options": [
+        "Debit the Realisation Account, credit the partner's Capital Account",
+        "Debit Cash/Bank, credit the Realisation Account",
+        "Debit the Realisation Account, credit Cash/Bank",
+        "Debit the partner's Capital Account, credit the Realisation Account"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "When a partner agrees to personally discharge a firm's liability on dissolution, the accounting entry is:",
+      "options": [
+        "Debit the Realisation Account, credit Cash/Bank",
+        "Debit the Realisation Account, credit the partner's Capital Account",
+        "Debit the partner's Capital Account, credit the Realisation Account",
+        "Debit Cash/Bank, credit the partner's Capital Account"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Expenses incurred on dissolution (realisation expenses) are generally:",
+      "options": [
+        "Debited directly to the Partners' Capital Accounts in every case, bypassing the Realisation Account",
+        "Debited to the Realisation Account",
+        "Credited to the Realisation Account",
+        "Ignored in the firm's final accounts"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "As per Section 48 of the Indian Partnership Act, 1932, losses, including deficiencies of capital, are paid first out of:",
+      "options": [
+        "The senior-most partner's personal assets only",
+        "Profits, next out of capital, and lastly, if necessary, by the partners individually in their profit-sharing ratio",
+        "The firm's goodwill only",
+        "Government compensation"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "As per Section 48, the assets of the firm (including sums contributed by partners to make up a deficiency) are generally applied in the order:",
+      "options": [
+        "Government dues, then third-party debts, then partners",
+        "Firm's debts to third parties, then partners' loans, then partners' capitals, then any surplus to partners in profit-sharing ratio",
+        "Partners' capitals first, then third-party debts, then partners' loans",
+        "Equally to all claimants regardless of type"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "On dissolution, loans given by a partner to the firm (as distinct from capital) are:",
+      "options": [
+        "Repaid after outside creditors but before partners' capital balances are settled",
+        "Never repaid, as they are treated as capital",
+        "Repaid before outside creditors",
+        "Repaid simultaneously with partners' capital, with no priority"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "If the Realisation Account shows a loss on dissolution, it is shared by the partners in their:",
+      "options": [
+        "Equal ratio, irrespective of the profit-sharing ratio in the deed",
+        "Capital ratio, irrespective of profit-sharing ratio",
+        "Profit-sharing ratio",
+        "Gaining ratio"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "On dissolution, the final step after settling the Realisation Account and all liabilities is to:",
+      "options": [
+        "Prepare a fresh Balance Sheet for the dissolved firm",
+        "Admit a new partner",
+        "Close the Partners' Capital Accounts by paying off the balances due to them",
+        "Revalue the firm's goodwill for the last time"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Dissolution of partnership, without dissolution of the firm, typically happens upon:",
+      "options": [
+        "A change in the constitution of the firm, such as admission or retirement, while the business continues",
+        "Court-ordered closure of the business",
+        "Sale of the entire business to an outside party",
+        "Winding up of all the firm's affairs"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Under Section 44 of the Indian Partnership Act, a court may order dissolution of a firm on the application of a partner if another partner:",
+      "options": [
+        "Has taken an extra day of leave",
+        "Has asked for a bonus",
+        "Has suggested a new product line",
+        "Is found to be of unsound mind"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Which of the following is NOT a mode of dissolution recognised under the Indian Partnership Act?",
+      "options": [
+        "Automatic dissolution after exactly three years, regardless of any agreement or event",
+        "Compulsory dissolution",
+        "Dissolution by court order",
+        "Dissolution by agreement"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "A firm constituted for a fixed term is, subject to contract between the partners, dissolved:",
+      "options": [
+        "Never, unless all partners die",
+        "Only by a court order",
+        "Only when the firm is converted into a company",
+        "On the expiry of that fixed term"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "A firm constituted to carry out one or more specific adventures or undertakings is dissolved:",
+      "options": [
+        "On the completion of that adventure or undertaking",
+        "Only after 20 years",
+        "Only by compulsory liquidation",
+        "Only by mutual retirement of all partners"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "On dissolution, unrecorded assets realised in cash are:",
+      "options": [
+        "Ignored, since they were never recorded",
+        "Credited directly to the Partners' Capital Accounts",
+        "Debited to the Realisation Account and credited to Cash/Bank",
+        "Debited to Cash/Bank and credited to the Realisation Account"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "On dissolution, unrecorded liabilities paid off are:",
+      "options": [
+        "Debited directly to the Partners' Capital Accounts",
+        "Debited to the Realisation Account and credited to Cash/Bank",
+        "Ignored, since they were never recorded",
+        "Credited to the Realisation Account and debited to Cash/Bank"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "If a solvent partner's Capital Account shows a debit balance on dissolution (the partner owes the firm), that amount is:",
+      "options": [
+        "Ignored entirely",
+        "Transferred to the Goodwill Account",
+        "Automatically written off as a firm loss",
+        "Paid by the partner to the firm"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Dissolution of a firm by notice applies specifically to:",
+      "options": [
+        "A partnership at will",
+        "A partnership for a fixed term",
+        "A partnership formed for a single specific venture",
+        "A partnership where all partners are companies"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Goodwill appearing in the Balance Sheet at the time of dissolution is treated by:",
+      "options": [
+        "Treating it as a liability",
+        "Retaining it permanently in the books",
+        "Transferring it directly to the Partners' Capital Accounts without passing through Realisation",
+        "Transferring it to the Realisation Account along with other assets"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "The closing cash/bank balance after dissolution, once all liabilities are paid and partners settled, should ideally be:",
+      "options": [
+        "Equal to the original capital of the firm",
+        "Equal to the firm's total goodwill",
+        "Nil",
+        "A fixed statutory amount"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "If the firm's assets realise more than their book value on dissolution, the surplus represents:",
+      "options": [
+        "A liability to outside creditors",
+        "Goodwill",
+        "Profit on realisation, credited to the Realisation Account",
+        "A loss on realisation"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "If the firm's assets realise less than their book value on dissolution, the shortfall represents:",
+      "options": [
+        "A liability to be paid by creditors",
+        "Profit on realisation",
+        "An increase in partners' capital",
+        "Loss on realisation, debited to the Realisation Account"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "A partner's private estate, under the Indian Partnership Act, is applied after dissolution first towards:",
+      "options": [
+        "The firm's debts exclusively, before any private debts",
+        "Nothing; private estates are never touched",
+        "Equal division between all creditors, private and firm, with no order of priority",
+        "That partner's own private debts, with any surplus applied towards firm debts"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "The firm's property, after dissolution, is applied first towards:",
+      "options": [
+        "Government taxes exclusively",
+        "Equal division between firm and private creditors",
+        "The firm's debts to third parties, in priority over any private debts of partners",
+        "A partner's private debts first"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Which of the following is a ground for compulsory dissolution of a firm?",
+      "options": [
+        "All partners, or all but one, becoming insolvent",
+        "One partner going on a long vacation",
+        "A partner opening a personal savings account",
+        "A fall in the firm's sales for one quarter"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "On dissolution, any undistributed balance of the Profit and Loss Account appearing in the Balance Sheet is:",
+      "options": [
+        "Transferred to the Partners' Capital Accounts in the profit-sharing ratio, before preparing the Realisation Account",
+        "Ignored entirely",
+        "Transferred to the Realisation Account",
+        "Transferred to the firm's creditors"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "A Garner vs Murray type situation (deficiency of an insolvent partner) can arise on dissolution when:",
+      "options": [
+        "One or more partners are unable to pay the amount due from them on settlement of accounts",
+        "A new partner is admitted during dissolution",
+        "All partners are solvent and pay promptly",
+        "The firm earns a large profit on realisation"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Dissolution accounting is distinct from accounting for admission or retirement mainly because dissolution involves:",
+      "options": [
+        "Only adjusting the profit-sharing ratio",
+        "Only admitting a replacement partner",
+        "Closing all accounts of the firm permanently, since the business ceases to exist",
+        "Only revaluing assets without any sale"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "\"Settlement of accounts\" on dissolution, as governed by Section 48, is a default rule that applies:",
+      "options": [
+        "Only when a court orders dissolution",
+        "In the absence of a contrary agreement between the partners",
+        "Only to firms registered after 1932",
+        "Only when the firm has fewer than three partners"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Dissolution of a firm formed for a particular venture, once that venture is complete, differs from a partnership at will in that:",
+      "options": [
+        "It requires the consent of outside creditors",
+        "It can never be dissolved",
+        "It requires a court order in every case",
+        "It dissolves automatically on completion of the venture, without any notice being required"
+      ],
+      "answer": 3
+    }
+  ]
+}

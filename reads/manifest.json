@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1-admission-of-a-partner",
+    "title": "1. Admission of a Partner",
+    "subject": "Partnership Accounts",
+    "file": "reads/1-admission-of-a-partner.json",
+    "sectionCount": 4
+  },
+  {
+    "id": "2-retirement-of-partners",
+    "title": "2. Retirement of Partners",
+    "subject": "Partnership Accounts",
+    "file": "reads/2-retirement-of-partners.json",
+    "sectionCount": 4
+  },
+  {
+    "id": "3-death-of-partners-and-sale-of-firm",
+    "title": "3. Death of Partners and Sale of Partnership Firm",
+    "subject": "Partnership Accounts",
+    "file": "reads/3-death-of-partners-and-sale-of-firm.json",
+    "sectionCount": 4
+  },
+  {
+    "id": "4-dissolution-of-partnership-firm",
+    "title": "4. Dissolution",
+    "subject": "Partnership Accounts",
+    "file": "reads/4-dissolution-of-partnership-firm.json",
+    "sectionCount": 4
+  },
+  {
+    "id": "5-piecemeal-distribution-and-insolvency",
+    "title": "5. Insolvency of Partners",
+    "subject": "Partnership Accounts",
+    "file": "reads/5-piecemeal-distribution-and-insolvency.json",
+    "sectionCount": 4
+  }
+]

@@ -1,0 +1,357 @@
+{
+  "id": "5-piecemeal-distribution-and-insolvency",
+  "title": "5. Insolvency of Partners",
+  "subtitle": "Garner vs Murray, Insolvency of All Partners, Piecemeal Distribution, Proportionate Capital Method, Maximum Loss Method",
+  "questions": [
+    {
+      "q": "A partner is said to be \"insolvent\" when:",
+      "options": [
+        "The partner is unable to pay their private debts and the amount due to the firm, as adjudicated by a competent court",
+        "The partner retires from the firm",
+        "The partner merely has a temporary cash shortage",
+        "The partner's capital account shows a credit balance"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "When an insolvent partner is unable to bring in the deficiency in their Capital Account, the resulting loss is known as a:",
+      "options": [
+        "Goodwill adjustment",
+        "Revaluation surplus",
+        "Capital deficiency",
+        "Realisation profit"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "The rule laid down in Garner vs Murray relates to:",
+      "options": [
+        "How solvent partners should bear the loss arising from a co-partner's insolvency",
+        "How a retiring partner's dues should be settled",
+        "How a Joint Life Policy should be accounted for",
+        "How goodwill should be valued on admission"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Under the Garner vs Murray rule, the deficiency caused by an insolvent partner's inability to pay is borne by the solvent partners:",
+      "options": [
+        "In the ratio of their capitals, as last agreed or standing before the dissolution",
+        "In the ratio of their drawings",
+        "In their profit-sharing ratio",
+        "Equally, regardless of capital or profit-sharing ratio"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "The Garner vs Murray rule applies:",
+      "options": [
+        "Only to firms with exactly two partners",
+        "Even if the partnership deed expressly provides a different method",
+        "Only in the absence of an agreement between partners specifying a different basis",
+        "Only when the insolvent partner is the most senior partner"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Under the Garner vs Murray rule, a solvent partner whose own Capital Account already shows a debit balance is:",
+      "options": [
+        "Not required to bear a share of the insolvent partner's deficiency",
+        "Still required to bear a proportionate share, regardless of their own deficit",
+        "Entitled to receive compensation from the insolvent partner",
+        "Required to bear double the normal share"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "The rationale for excluding a solvent partner with a debit capital balance from bearing the insolvency loss is that:",
+      "options": [
+        "Such partners are legally exempt by statute from all partnership obligations",
+        "Such partners never share in profits",
+        "A person who cannot themselves pay cannot reasonably be asked to contribute to another's deficiency",
+        "Such partners are always the most senior"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "When all the partners of a firm become insolvent, the situation is referred to as:",
+      "options": [
+        "Partial dissolution",
+        "Insolvency of the firm",
+        "Compulsory amalgamation",
+        "Voluntary winding up"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "When all partners are insolvent, the firm's creditors are paid:",
+      "options": [
+        "Out of whatever amount is realised from the firm's assets, on a pro-rata basis if insufficient",
+        "Only out of the partners' private estates",
+        "In full, regardless of the amount realised",
+        "Not at all, as the firm ceases to have obligations"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "\"Piecemeal distribution\" refers to a situation where, on dissolution:",
+      "options": [
+        "The firm's assets are realised gradually over time, and cash is distributed among partners as it becomes available",
+        "Distribution is postponed indefinitely until all partners agree",
+        "Only the insolvent partner receives any payment",
+        "All assets are realised and distributed in a single instalment"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Piecemeal distribution is necessary mainly because:",
+      "options": [
+        "Partners prefer smaller payments for tax reasons only",
+        "It may take considerable time to realise all the firm's assets, and partners should not have to wait until the very end",
+        "It avoids the need to prepare a Realisation Account",
+        "The law requires at least five separate instalments in every case"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Under the Maximum Loss Method of piecemeal distribution, at each instalment it is assumed that:",
+      "options": [
+        "All remaining assets will definitely realise their full book value",
+        "Only the senior partner will bear any further loss",
+        "No further amount will be realised from the remaining assets, and the maximum possible loss is calculated accordingly",
+        "The firm will immediately resume normal business operations"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "The Maximum Loss Method ensures that, at each stage of distribution:",
+      "options": [
+        "No partner receives more than what they would be entitled to even in the worst-case scenario",
+        "Only secured creditors are paid",
+        "Capital accounts are ignored completely",
+        "All partners receive exactly equal amounts"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Under the Proportionate Capital Method of piecemeal distribution, partners are ranked for payment based on:",
+      "options": [
+        "The partner with the lowest capital being paid first, regardless of ratio",
+        "The capital each partner has in relation to their profit-sharing ratio, so excess capital is returned before profit-ratio-based distribution begins",
+        "The date each partner joined the firm",
+        "Alphabetical order of partners' names"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Under the Proportionate Capital Method, a partner whose capital is relatively higher than what is justified by their profit-sharing ratio is:",
+      "options": [
+        "Never paid until all other partners are fully paid",
+        "Paid first, to the extent of such excess, before a general distribution in the profit-sharing ratio begins",
+        "Required to contribute additional capital immediately",
+        "Excluded from any further distribution"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Both the Maximum Loss Method and the Proportionate Capital Method are used to ensure that piecemeal payments to partners are made:",
+      "options": [
+        "Randomly, without regard to capital or ratio",
+        "Fairly, so that no partner is overpaid relative to their final entitlement",
+        "Only to the most senior partner first, in all cases",
+        "Only after the business is fully wound up, which defeats the purpose of piecemeal distribution"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "In piecemeal distribution, available cash is first applied towards:",
+      "options": [
+        "Realisation expenses and outside creditors, before any payment to partners",
+        "Partners' current accounts only",
+        "The insolvent partner's private creditors",
+        "Partners' capital accounts directly, before any creditors"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "The concept of \"surplus capital\" in piecemeal distribution refers to capital that is:",
+      "options": [
+        "In excess of what a partner's profit-sharing ratio would justify, relative to other partners' capitals",
+        "Represented by the firm's goodwill",
+        "Contributed after the firm's dissolution has been completed",
+        "Borrowed by the firm from outside creditors"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "If, under the Maximum Loss Method, a partner's capital account would otherwise go into debit, that excess loss is:",
+      "options": [
+        "Ignored, since the method automatically prevents this situation without further action",
+        "Transferred to the Joint Life Policy Account",
+        "Charged entirely to the firm's creditors",
+        "Reallocated among the remaining solvent partners in their profit-sharing ratio"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Garner vs Murray is best described as a case relating to English partnership law that has been:",
+      "options": [
+        "Applicable only to companies, not partnerships",
+        "Explicitly overruled by the Indian Partnership Act, 1932",
+        "Irrelevant to piecemeal distribution",
+        "Followed in Indian partnership accounting practice, in the absence of a contrary agreement"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Insolvency of a partner during dissolution complicates the settlement of accounts primarily because:",
+      "options": [
+        "The insolvent partner automatically becomes the managing partner",
+        "All creditors must be paid in shares of the company",
+        "The firm's goodwill must be revalued twice",
+        "The insolvent partner's share of the deficiency cannot be recovered from that partner"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "When applying the Garner vs Murray rule, the \"capital\" used for sharing the deficiency is generally based on:",
+      "options": [
+        "The capitals as they stood on the date of the last agreed Balance Sheet before dissolution",
+        "The market value of each partner's personal assets",
+        "The partners' profit-sharing ratio converted into a capital figure",
+        "The partners' drawings for the current year"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Piecemeal distribution differs from a single lump-sum distribution at the end of dissolution mainly in terms of:",
+      "options": [
+        "The order in which outside creditors are paid",
+        "The timing of payments to partners (instalments versus one final payment)",
+        "The total amount ultimately payable to partners",
+        "The method of valuing goodwill"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "In piecemeal distribution, realisation expenses that are expected but not yet paid are often provided for by:",
+      "options": [
+        "Deducting them from outside creditors' claims",
+        "Charging them entirely to the insolvent partner",
+        "Ignoring them until the very last instalment",
+        "Setting aside an estimated amount before distributing the remaining cash to partners"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "The final instalment in a piecemeal distribution typically results in:",
+      "options": [
+        "The creation of fresh goodwill",
+        "The complete closure of all partners' Capital Accounts",
+        "The admission of a new partner",
+        "The reopening of the Revaluation Account"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "If, under the Maximum Loss Method, a later realisation turns out better than assumed, the partner(s) who received less in an earlier instalment:",
+      "options": [
+        "Permanently lose their entitlement to the difference",
+        "Have no further claim on the firm",
+        "Receive a correspondingly larger share in the subsequent instalment(s)",
+        "Must return part of what they already received"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Which of the following best distinguishes insolvency of one or more partners from insolvency of all partners, in a dissolution context?",
+      "options": [
+        "The latter automatically converts the firm into a limited liability partnership",
+        "The former never requires a Realisation Account, while the latter always does",
+        "In the former, solvent partners bear the deficiency of the insolvent partner(s); in the latter, no partner can fully absorb the firm's losses",
+        "There is no accounting difference between the two situations"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "The Garner vs Murray principle does NOT apply when:",
+      "options": [
+        "The insolvent partner is the most recently admitted partner",
+        "The firm has more than three partners",
+        "The partnership agreement expressly provides a different basis for sharing such a deficiency",
+        "The firm is located outside India"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "On piecemeal distribution, before any amount is paid to partners towards their capital, which of the following must first be fully provided for or paid?",
+      "options": [
+        "The partners' current account credit balances",
+        "The firm's goodwill account",
+        "Outside liabilities of the firm and realisation expenses",
+        "The partners' drawings for the year"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "The practical significance of the Maximum Loss Method is that it allows partners to receive cash:",
+      "options": [
+        "Only if all partners unanimously agree on each instalment amount",
+        "Only after a court certifies the complete winding up",
+        "Only in equal instalments regardless of entitlement",
+        "As soon as it becomes available, without waiting for the complete realisation of all assets, while remaining protected against overpayment"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "When a partner's capital is wholly or partly lost due to a co-partner's insolvency, this loss is shared by the solvent partners as per:",
+      "options": [
+        "The new profit-sharing ratio of an admitted partner",
+        "The gaining ratio used at retirement",
+        "The firm's audited turnover for the year",
+        "Garner vs Murray (or the partnership agreement, if it provides otherwise)"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "In piecemeal distribution problems, the statement showing how surplus capital is returned to partners is prepared mainly under the:",
+      "options": [
+        "Proportionate Capital (Highest Relative Capacity) Method",
+        "Garner vs Murray rule exclusively",
+        "Admission of a partner procedure",
+        "Maximum Loss Method exclusively"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Under the Proportionate Capital Method, the first partner(s) to be repaid any surplus capital are those with:",
+      "options": [
+        "The highest capital relative to their profit-sharing ratio",
+        "The lowest capital relative to their profit-sharing ratio",
+        "The shortest tenure in the firm",
+        "The highest drawings during the year"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "The underlying objective common to both methods of piecemeal distribution is to:",
+      "options": [
+        "Pay all partners strictly equal amounts at each instalment",
+        "Arrive at the same final distribution as a single lump-sum settlement would produce, despite paying in instalments",
+        "Eliminate the need for a Realisation Account",
+        "Avoid paying outside creditors until the end"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "If an insolvent partner's private estate can pay only part of their personal liabilities, the firm's claim against that estate ranks:",
+      "options": [
+        "Always before the partner's private creditors",
+        "Always after the partner's private creditors",
+        "Not at all; firms cannot claim against a partner's private estate",
+        "Pari passu (equally) with the partner's other private creditors, in proportion to amounts due"
+      ],
+      "answer": 3
+    }
+  ]
+}

@@ -1,0 +1,457 @@
+{
+  "id": "1-admission-of-a-partner",
+  "title": "1. Admission of a Partner",
+  "subtitle": "New Profit Sharing Ratio, Sacrificing Ratio, Revaluation, Goodwill, Capital Adjustment, AS 10, AS 26 & Ind AS 38",
+  "questions": [
+    {
+      "q": "Admission of a new partner results in:",
+      "options": [
+        "Insolvency of existing partners",
+        "Winding up of the business",
+        "Dissolution of the firm",
+        "Reconstitution of the partnership firm"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "In the absence of a contract to the contrary, admitting a new partner requires:",
+      "options": [
+        "Consent of all existing partners",
+        "Consent of a majority of partners",
+        "Only the senior-most partner's consent",
+        "No consent at all"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Sacrificing ratio is calculated as:",
+      "options": [
+        "New ratio divided by old ratio",
+        "New ratio minus old ratio",
+        "Old ratio plus new ratio",
+        "Old ratio minus new ratio"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "The sacrificing ratio is primarily used to:",
+      "options": [
+        "Revalue the firm's liabilities",
+        "Calculate the new partner's capital",
+        "Distribute the goodwill brought in by the incoming partner among the old partners",
+        "Determine the firm's total capital"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "If the new partner's share is given but nothing is said about how old partners sacrifice, it is assumed they sacrifice:",
+      "options": [
+        "In the capital ratio",
+        "In their old profit-sharing ratio",
+        "In the new ratio",
+        "Equally"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "A Revaluation Account is prepared at the time of admission to record:",
+      "options": [
+        "The new partner's capital contribution",
+        "The firm's total sales",
+        "Changes in the value of assets and liabilities",
+        "The partners' drawings"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "An increase in the value of an asset on revaluation is:",
+      "options": [
+        "Debited to the Goodwill Account",
+        "Credited to the Revaluation Account",
+        "Credited to the new partner's capital account",
+        "Debited to the Revaluation Account"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "A decrease in the value of a liability on revaluation is:",
+      "options": [
+        "Debited to the Capital Accounts of all partners",
+        "Credited to the Cash Account",
+        "Credited to the Revaluation Account",
+        "Debited to the Revaluation Account"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Profit or loss on revaluation at the time of admission is shared by:",
+      "options": [
+        "Only the new partner",
+        "The old partners equally, regardless of their old ratio",
+        "All partners including the new partner, in the new ratio",
+        "The old partners in their old profit-sharing ratio"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Goodwill brought in cash by a new partner is known as:",
+      "options": [
+        "Sacrifice reserve",
+        "Premium for goodwill",
+        "Revaluation profit",
+        "Capital reserve"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "When a new partner brings goodwill in cash, it is shared by the old partners in their:",
+      "options": [
+        "Equal ratio",
+        "Sacrificing ratio",
+        "New profit-sharing ratio",
+        "Capital ratio"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Goodwill that is not explicitly given, but is inferred from the capital brought in by the new partner, is called:",
+      "options": [
+        "Negative goodwill",
+        "Hidden or inferred goodwill",
+        "Super profit",
+        "Premium goodwill"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Hidden goodwill is generally calculated as:",
+      "options": [
+        "The average profit of the firm",
+        "The sacrificing ratio multiplied by total capital",
+        "The implied total capitalised value of the firm minus the actual combined capital of all partners",
+        "The new partner's capital divided by the old partners' capital"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Under the Capitalisation Method, goodwill is calculated as:",
+      "options": [
+        "Total assets minus total liabilities",
+        "Average profit multiplied by number of years' purchase only",
+        "Super profit multiplied by an annuity factor",
+        "Capitalised value of average profits minus the firm's net tangible assets (actual capital employed)"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Under the Super Profit Method, goodwill is generally calculated as:",
+      "options": [
+        "Super profit multiplied by the agreed number of years' purchase",
+        "Average profit multiplied by total capital",
+        "Normal profit minus total assets",
+        "Capital employed divided by average profit"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Super profit is defined as:",
+      "options": [
+        "Total profit of all years added together",
+        "Average profit multiplied by number of partners",
+        "Average actual profit minus normal profit",
+        "Normal profit minus average profit"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "As per AS 26 (Intangible Assets), internally generated (self-generated) goodwill of a firm:",
+      "options": [
+        "Must always be recorded at market value",
+        "Is treated as a current asset",
+        "Is not recognised as an asset in the books",
+        "Is compulsorily amortised over five years"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Ind AS 38, dealing with intangible assets, similarly provides that:",
+      "options": [
+        "Internally generated goodwill should not be recognised as an asset",
+        "Goodwill is always amortised over its useful life",
+        "Goodwill is classified as property, plant and equipment",
+        "All goodwill must be revalued annually"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "AS 10 (Property, Plant and Equipment) is relevant to admission of a partner primarily because it governs:",
+      "options": [
+        "The accounting treatment of revaluation of fixed assets",
+        "The treatment of goodwill brought in cash",
+        "The preparation of the Partners' Capital Accounts only",
+        "The calculation of sacrificing ratio"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "When old partners' capitals are to be adjusted in proportion to the new profit-sharing ratio, any excess capital shown by a partner is:",
+      "options": [
+        "Transferred to the Goodwill Account",
+        "Withdrawn by that partner, or transferred to a loan/current account",
+        "Credited to the Revaluation Account",
+        "Written off as a loss"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Under the Fluctuating Capital Method, a partner's share of revaluation profit, goodwill adjustment and reserves is:",
+      "options": [
+        "Adjusted in a separate Current Account",
+        "Ignored entirely",
+        "Adjusted directly in the partner's Capital Account",
+        "Transferred to the firm's Reserve Account"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Under the Fixed Capital Method, adjustments like share of profit, interest on capital and drawings are recorded in the:",
+      "options": [
+        "Realisation Account",
+        "Partners' Capital Accounts",
+        "Partners' Current Accounts",
+        "Revaluation Account"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "At the time of admission, reserves and accumulated profits appearing in the old Balance Sheet are:",
+      "options": [
+        "Written off as a loss to the Revaluation Account",
+        "Distributed among the old partners in their old profit-sharing ratio",
+        "Distributed among all partners including the new partner",
+        "Carried forward unchanged in the new Balance Sheet"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "If a new partner acquires their share entirely from one old partner, the sacrifice is:",
+      "options": [
+        "Unequal, with only that one partner sacrificing",
+        "Equal between all old partners",
+        "Zero, since no sacrifice is needed",
+        "In proportion to capital"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "The accounting entry for revaluation profit distributed to old partners is:",
+      "options": [
+        "Revaluation Account debited, old partners' Capital Accounts credited in old ratio",
+        "Cash Account debited, Revaluation Account credited",
+        "Goodwill Account debited, Revaluation Account credited",
+        "Old partners' Capital Accounts debited, Revaluation Account credited"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Admission of a partner normally changes the:",
+      "options": [
+        "Statutory audit requirement only",
+        "Legal status of the firm from unlimited to limited liability",
+        "Nature of the business only",
+        "Profit-sharing ratio of the partners"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Unrecorded assets discovered at the time of admission are:",
+      "options": [
+        "Credited to the Revaluation Account",
+        "Credited directly to the new partner's Capital Account",
+        "Debited to the Revaluation Account",
+        "Ignored, since they were never recorded"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Unrecorded liabilities discovered at the time of admission are:",
+      "options": [
+        "Ignored, since they were never recorded",
+        "Debited directly to the new partner's Capital Account",
+        "Credited to the Revaluation Account",
+        "Debited to the Revaluation Account"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "A credit balance (profit) in the Revaluation Account on admission increases:",
+      "options": [
+        "The firm's bank balance only",
+        "The capital account of only the new partner",
+        "The capital accounts of the old partners, in old ratio",
+        "The firm's goodwill account directly"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "\"Premium for goodwill\" in the context of admission best refers to:",
+      "options": [
+        "The amount paid by the incoming partner for the right to share future profits",
+        "The amount paid to settle a retiring partner's dues",
+        "The market value of the firm's fixed assets",
+        "The capital contributed by the incoming partner for the business"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "When the new partner's share of goodwill is withdrawn in cash by the old partners, the entry debits:",
+      "options": [
+        "Old partners' Capital Accounts (or a Premium for Goodwill account) and credits Cash/Bank",
+        "New partner's Capital Account and credits Cash",
+        "Cash/Bank and credits old partners' Capital Accounts",
+        "Revaluation Account and credits Cash"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Valuation of goodwill by the Average Profit Method generally computes goodwill as:",
+      "options": [
+        "Super profit divided by normal rate of return",
+        "Capital employed multiplied by normal rate of return",
+        "Average profit of past years multiplied by the agreed number of years' purchase",
+        "Weighted average profit minus normal profit"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "The term \"number of years' purchase\" in goodwill valuation represents:",
+      "options": [
+        "The number of years for which a buyer is willing to pay for anticipated future profits",
+        "The number of years' capital invested by partners",
+        "The number of years the firm has been in existence",
+        "The number of years the new partner will remain a partner"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Using the new partner's capital to work out the implied total capital of the firm is an approach associated with:",
+      "options": [
+        "Settling retiring partners' dues",
+        "Ascertaining hidden goodwill",
+        "Preparing the Revaluation Account",
+        "Calculating the sacrificing ratio"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Partners' Capital Accounts are adjusted after admission mainly to ensure:",
+      "options": [
+        "All partners withdraw equal amounts",
+        "Goodwill is permanently retained in the books",
+        "The firm's total assets equal its total liabilities",
+        "Capitals are in proportion to the new profit-sharing ratio, where so agreed"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "The Memorandum Revaluation Account method is used when:",
+      "options": [
+        "Old partners do not want the recorded values of assets and liabilities to be permanently changed, despite revaluation",
+        "The new partner refuses to bring in capital",
+        "The firm is being dissolved",
+        "A partner is retiring"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "In the Memorandum Revaluation Account method, the assets and liabilities in the firm's books:",
+      "options": [
+        "Are transferred to the Realisation Account",
+        "Continue to appear at their old (book) values",
+        "Are written off completely",
+        "Are immediately revised to new values permanently"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Which accounting standard specifically deals with the recognition and measurement of intangible assets, including goodwill?",
+      "options": [
+        "AS 6",
+        "AS 10",
+        "AS 26",
+        "AS 1"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Which accounting standard deals with Property, Plant and Equipment, including their revaluation?",
+      "options": [
+        "Ind AS 38",
+        "AS 9",
+        "AS 10",
+        "AS 26"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Ind AS 38 is the Indian accounting standard that corresponds, internationally, to:",
+      "options": [
+        "IAS 2 (Inventories)",
+        "IAS 38 (Intangible Assets)",
+        "IAS 16 (Property, Plant and Equipment)",
+        "IFRS 9 (Financial Instruments)"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "If goodwill already appears in the old Balance Sheet at the time of admission, the usual first step is to:",
+      "options": [
+        "Revalue it at twice its book value",
+        "Ignore it completely",
+        "Write it off among the old partners in their old profit-sharing ratio",
+        "Transfer it directly to the new partner's Capital Account"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "The primary purpose of calculating the new profit-sharing ratio on admission is to determine:",
+      "options": [
+        "The incoming partner's final dues only",
+        "The firm's total sales for the year",
+        "How all partners, including the incoming partner, will share future profits and losses",
+        "The income tax payable by the firm"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "A partner's \"sacrifice\" on admission means that partner's share of future profits:",
+      "options": [
+        "Decreases, to make room for the incoming partner's share",
+        "Is transferred entirely to the firm's reserves",
+        "Increases automatically",
+        "Remains exactly the same"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "If the new profit-sharing ratio is given directly in the question (rather than the new partner's share alone), the sacrificing ratio is found by:",
+      "options": [
+        "Dividing the firm's total profit by the number of partners",
+        "Comparing each old partner's old share with their new share",
+        "Ignoring the old ratio altogether",
+        "Comparing the new partner's capital with total capital"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "At admission, the combined effect of revaluation and goodwill adjustments is ultimately reflected in:",
+      "options": [
+        "The new partner's drawings",
+        "The firm's Profit and Loss Appropriation Account only",
+        "The partners' Capital (or Current) Accounts",
+        "The firm's statutory audit report"
+      ],
+      "answer": 2
+    }
+  ]
+}

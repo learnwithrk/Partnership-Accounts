@@ -1,0 +1,407 @@
+{
+  "id": "2-retirement-of-partners",
+  "title": "2. Retirement of Partners",
+  "subtitle": "New Ratio, Gaining Ratio, Revaluation, Goodwill, Settlement of Dues, Admission cum Retirement",
+  "questions": [
+    {
+      "q": "Retirement of a partner results in:",
+      "options": [
+        "Reconstitution of the partnership firm",
+        "Winding up of the business",
+        "Compulsory dissolution of the firm",
+        "Insolvency of the firm"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Gaining ratio is calculated as:",
+      "options": [
+        "New ratio minus old ratio",
+        "New ratio plus old ratio",
+        "Old ratio minus new ratio",
+        "Old ratio divided by new ratio"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "The concept of gaining ratio is specifically used to determine compensation payable by:",
+      "options": [
+        "The new partner to the old partners",
+        "Partners whose share of profit increases, to the partner(s) whose share decreases",
+        "The firm to outside creditors",
+        "Partners whose share decreases, to partners whose share increases"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "On retirement, if no new ratio is specified, continuing partners are presumed to share future profits:",
+      "options": [
+        "In the capital ratio",
+        "In their old mutual ratio",
+        "Equally, regardless of the old ratio",
+        "In the gaining ratio divided by two"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "At retirement, assets and liabilities are revalued through a:",
+      "options": [
+        "Memorandum Capital Account",
+        "Profit and Loss Appropriation Account only",
+        "Revaluation Account",
+        "Realisation Account"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "Profit or loss on revaluation at retirement is shared by:",
+      "options": [
+        "All partners, including the retiring partner, in the old profit-sharing ratio",
+        "All partners equally, irrespective of the old ratio",
+        "Only the continuing partners, in the new ratio",
+        "Only the retiring partner"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "On retirement, the retiring partner's share of goodwill is compensated by the continuing partners in their:",
+      "options": [
+        "Capital ratio",
+        "Old profit-sharing ratio",
+        "New profit-sharing ratio before retirement",
+        "Gaining ratio"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "If goodwill already appears in the firm's books at retirement, it is usually written off among all partners (including the retiring partner) in their:",
+      "options": [
+        "Gaining ratio",
+        "Old profit-sharing ratio",
+        "New profit-sharing ratio",
+        "Capital ratio"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "On retirement, the balance in the retiring partner's Capital Account, after all adjustments, represents:",
+      "options": [
+        "The continuing partners' combined capital",
+        "The amount due to the retiring partner",
+        "The gaining ratio",
+        "The firm's total capital"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "As per Section 37 of the Indian Partnership Act, 1932, if the amount due to a retiring partner is left in the business, the retiring partner (or representative) is entitled, at their option, to:",
+      "options": [
+        "Immediate dissolution of the firm",
+        "No compensation whatsoever",
+        "Interest at 6% per annum on the amount due, or such share of profits as is attributable to the use of that amount",
+        "A fixed penalty of 10% per annum"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "The amount due to a retiring partner may be settled by:",
+      "options": [
+        "Converting it into the continuing partners' capital without consent",
+        "Lump sum payment, instalments with interest, or transfer to a loan account",
+        "Compulsory transfer to the Reserve Fund only",
+        "Writing it off as a bad debt"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "When the amount due to a retiring partner is not paid immediately, it is commonly transferred to a:",
+      "options": [
+        "Suspense Account",
+        "Retiring Partner's Loan Account",
+        "Drawings Account",
+        "Realisation Account"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "If a retiring partner's dues are settled in instalments, interest is usually calculated:",
+      "options": [
+        "On the outstanding balance, at the agreed rate",
+        "Only if the partner demands it in writing every year",
+        "Only on the original total amount, regardless of repayments",
+        "Never, since instalment payments do not attract interest"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "\"Admission cum retirement\" refers to a situation where:",
+      "options": [
+        "Two partners retire simultaneously",
+        "A new partner is admitted and an existing partner retires at or around the same time",
+        "A partner is admitted without any change in the profit-sharing ratio",
+        "The firm is dissolved and reconstituted as a company"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "In an admission-cum-retirement scenario, the new profit-sharing ratio must account for:",
+      "options": [
+        "Both the incoming partner's share and the effect of the outgoing partner's retirement",
+        "Only the outgoing partner's share",
+        "Only the incoming partner's share",
+        "Neither; the old ratio continues unchanged"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "On retirement, reserves and accumulated profits appearing in the Balance Sheet are distributed among:",
+      "options": [
+        "All partners, including the retiring partner, in the old profit-sharing ratio",
+        "Only the retiring partner",
+        "Only the continuing partners",
+        "Nobody; they are carried forward unchanged"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "An increase in the value of an asset at the time of retirement is:",
+      "options": [
+        "Debited to the Goodwill Account",
+        "Debited to the Revaluation Account",
+        "Credited to the retiring partner's Capital Account directly",
+        "Credited to the Revaluation Account"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "A provision found to be in excess at the time of retirement is:",
+      "options": [
+        "Transferred directly to the Realisation Account",
+        "Credited to the Revaluation Account",
+        "Ignored, since provisions are never revalued",
+        "Debited to the Revaluation Account"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "On retirement, if continuing partners adjust their capitals to the new profit-sharing ratio, a partner with capital in excess of the required amount:",
+      "options": [
+        "Withdraws the excess, or transfers it to a loan/current account",
+        "Has the excess transferred to the retiring partner automatically",
+        "Has the excess written off as a loss",
+        "Must bring in additional capital instead"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "If the retiring partner's Capital Account shows a debit balance after all adjustments (the partner owes the firm), this amount is:",
+      "options": [
+        "Recovered from the retiring partner",
+        "Automatically written off as a loss to the firm",
+        "Transferred to the Goodwill Account",
+        "Ignored, since retiring partners can never owe the firm"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "On retirement, unrecorded assets discovered are:",
+      "options": [
+        "Ignored",
+        "Credited to the Revaluation Account",
+        "Credited to the retiring partner's account only",
+        "Debited to the Revaluation Account"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "On retirement, unrecorded liabilities discovered are:",
+      "options": [
+        "Debited to the Revaluation Account",
+        "Ignored",
+        "Debited to the retiring partner's account only",
+        "Credited to the Revaluation Account"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "The retiring partner's share of profit up to the date of retirement, where retirement occurs during an accounting year, is usually calculated on the basis of:",
+      "options": [
+        "The firm's total assets at the date of retirement",
+        "The entire year's profit, regardless of the date of retirement",
+        "The continuing partners' combined capital",
+        "Time elapsed, or sales/turnover since the last Balance Sheet, as agreed"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Interest on a retiring partner's loan account, where applicable, is generally:",
+      "options": [
+        "Charged as an expense in the firm's Profit and Loss Account",
+        "Ignored in the firm's accounts",
+        "Treated as a reduction in the continuing partners' capital only",
+        "Credited directly to the Revaluation Account"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "A partnership firm continues to exist even after a partner retires, provided:",
+      "options": [
+        "At least five partners remain",
+        "The remaining partner obtains government approval",
+        "The firm is immediately registered as a company",
+        "A minimum of two partners remain"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "On retirement, the Capital Accounts of continuing partners are affected by:",
+      "options": [
+        "The retiring partner's personal expenses only",
+        "Nothing; only the retiring partner's account is affected",
+        "The firm's sales revenue only",
+        "Their share of revaluation profit/loss, goodwill adjustment, and reserves"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "If the retiring partner is paid partly in cash and partly through a loan account, the cash portion is recorded as a:",
+      "options": [
+        "Debit to the retiring partner's Capital Account and credit to Bank/Cash",
+        "Credit to the Goodwill Account",
+        "Credit to the retiring partner's Capital Account and debit to Bank/Cash",
+        "Debit to the Revaluation Account"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "The primary purpose of calculating a new profit-sharing ratio on retirement is to:",
+      "options": [
+        "Determine how continuing partners will share future profits and losses",
+        "Calculate the income tax payable by the firm",
+        "Value the firm's goodwill only",
+        "Determine the retiring partner's final dues only"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Where partners' capitals are fixed, adjustments relating to revaluation and goodwill on retirement are passed through:",
+      "options": [
+        "The partners' Capital Accounts",
+        "The Drawings Account",
+        "The partners' Current Accounts",
+        "The Realisation Account"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "Goodwill of the firm, for retirement purposes, is generally valued using the same methods as used at the time of:",
+      "options": [
+        "Preparation of the firm's income tax return",
+        "Admission of a partner",
+        "Insolvency of a partner",
+        "Dissolution of the firm"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "When goodwill is not raised in the books at retirement, the continuing partners' Capital Accounts are debited, in their gaining ratio, and the retiring partner's account is:",
+      "options": [
+        "Left unaffected",
+        "Credited with the firm's total goodwill",
+        "Debited with their share of goodwill",
+        "Credited with their share of goodwill"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Which of the following is NOT a valid method of settling the amount due to a retiring partner?",
+      "options": [
+        "Automatic transfer to the firm's Reserve Fund without the partner's consent",
+        "Transfer to a Loan Account",
+        "Payment in a lump sum",
+        "Payment in instalments with interest"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "A retiring partner remains liable to third parties for the firm's acts:",
+      "options": [
+        "For an unlimited period after retirement, regardless of any agreement",
+        "Only if the retiring partner was the managing partner",
+        "Never, once retirement is effective",
+        "Done before retirement, unless discharged by agreement with the third party"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "Public notice of retirement is important primarily because:",
+      "options": [
+        "It limits the retiring partner's liability for the firm's future acts to third parties",
+        "It is required to calculate the new profit-sharing ratio",
+        "It is required only for admission, not retirement",
+        "It determines the gaining ratio"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "If the Revaluation Account at retirement shows a loss, it is:",
+      "options": [
+        "Ignored in the final settlement",
+        "Debited only to the retiring partner's Capital Account",
+        "Credited to all partners' Capital Accounts in the old ratio",
+        "Debited to all partners' Capital Accounts in the old ratio"
+      ],
+      "answer": 3
+    },
+    {
+      "q": "The final amount payable to a retiring partner typically includes:",
+      "options": [
+        "Only the firm's total assets divided by the number of partners",
+        "Capital balance, share of reserves, share of revaluation profit, and share of goodwill, less drawings or amounts owed",
+        "Only the share of goodwill",
+        "Only the original capital contributed"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "When continuing partners adjust capitals after retirement and a partner's capital falls short of the required amount, that partner:",
+      "options": [
+        "Automatically retires as well",
+        "Brings in additional capital to make up the shortfall",
+        "Receives a compulsory loan from the retiring partner",
+        "Has the shortfall written off as a firm loss"
+      ],
+      "answer": 1
+    },
+    {
+      "q": "Retirement of a partner differs from dissolution of the firm in that retirement:",
+      "options": [
+        "Automatically converts the firm into a company",
+        "Always results in the closure of the business",
+        "Allows the firm to continue in existence with the remaining partners",
+        "Requires a court order in every case"
+      ],
+      "answer": 2
+    },
+    {
+      "q": "On retirement, if the gaining partners also owe the retiring partner a share of accumulated reserves, this is adjusted:",
+      "options": [
+        "Along with the goodwill and revaluation adjustments, in the retiring partner's final settlement",
+        "Only if the firm is dissolved subsequently",
+        "Separately, a full year after retirement",
+        "Through the firm's Profit and Loss Appropriation Account of the following year only"
+      ],
+      "answer": 0
+    },
+    {
+      "q": "The core accounting objective on retirement is to ascertain:",
+      "options": [
+        "The exact amount due to the outgoing partner and fairly restate the continuing partners' capitals",
+        "The firm's total annual turnover",
+        "The market value of the firm's brand name",
+        "The personal income tax liability of the retiring partner"
+      ],
+      "answer": 0
+    }
+  ]
+}
